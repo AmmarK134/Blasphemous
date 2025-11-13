@@ -9,6 +9,8 @@ import java.awt.image.BufferedImage;
 
 public abstract class Entity {
 
+	
+
 	protected float x, y; // The x and y coordinates of the entity
 	protected int width, height; // The width and height of the entity
 	protected Rectangle hitbox; // The hitbox of the entity
