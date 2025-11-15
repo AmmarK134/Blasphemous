@@ -17,6 +17,8 @@ public class MainClass implements ActionListener {
 	// ImageIcon for the title image
 	ImageIcon titlelbl = new ImageIcon("title.png");
 	
+
+	
 	// Loading and scaling the title image
 	Image img1 = titlelbl.getImage();   
 	Image newimg1 = img1.getScaledInstance(1600, 800, java.awt.Image.SCALE_SMOOTH);

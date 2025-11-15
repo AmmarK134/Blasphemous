@@ -12,6 +12,9 @@ public class GameWindow {
 
 		jframe = new JFrame();
 
+
+		
+
 		jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		jframe.add(gamePanel);
 //		jframe.setLocationRelativeTo(null);
